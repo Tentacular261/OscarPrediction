@@ -11,7 +11,7 @@ class BAFTA:
 		self.picturesNom = defaultdict(lambda: 0)
 		winner = True
 		for line in lines:
-			if winner: 
+			if winner:
 				self.picturesWin[line.strip()] += 1
 				self.picturesNom[line.strip()] += 1
 				winner = False
@@ -19,7 +19,7 @@ class BAFTA:
 				winner = True
 			else:
 				self.picturesNom[line.strip()] += 1
-		
+
 		#best director
 		file_object = open("./bafta_best_director","r")
 		lines = file_object.readlines();
@@ -27,7 +27,7 @@ class BAFTA:
 		self.directorNom = defaultdict(lambda: 0)
 		winner = True
 		for line in lines:
-			if winner: 
+			if winner:
 				self.directorWin[line] += 1
 				winner = False
 			elif (line == "\n"):
@@ -43,7 +43,7 @@ class BAFTA:
 		self.actorNom = defaultdict(lambda: 0)
 		winner = True
 		for line in lines:
-			if winner: 
+			if winner:
 				self.actorWin[line] += 1
 				winner = False
 			elif (line == "\n"):
@@ -59,7 +59,7 @@ class BAFTA:
 		self.actressNom = defaultdict(lambda: 0)
 		winner = True
 		for line in lines:
-			if winner: 
+			if winner:
 				self.actressWin[line] += 1
 				winner = False
 			elif (line == "\n"):
@@ -152,4 +152,4 @@ def print_best_actress():
 	for line in lines:
 		print ba.get_best_actress_nom(line), ba.get_best_actress_winner(line)
 
-print_best_actress()
+print_best_picture()

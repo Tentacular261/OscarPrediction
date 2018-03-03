@@ -1,0 +1,117 @@
+name,year,imdb_rating,num_imdb_votes,mpaa,top-250-rank,genres,director,metascore_rating,num_metascore_positive,num_metascore_mixed,num_metascore_negative,userscore_rating,num_userscore_positive,num_userscore_mixed,num_userscore_negative,all-critics-numbers,all_average_rating,all_reviews_counted,all_fresh,all_rotten,top-critics-numbers,top_average_rating,top_reviews_counted,top_fresh,top_rotten,rt_audience_score,winner,bafta_winner,bafta_nom,gg_drama_win,gg_drama_nom,gg_musical_win,gg_musical_nom
+call-me-by-your-name,2017,8.1,69359,-,-,"Drama,Romance,",Luca Guadagnino,93,49,2,0,7.5,418,34,103,96,8.7,271,259,12,98,8.6,40,39,1,86,1,0,1,0,0,1,1
+darkest-hour,2017,7.4,62935,-,-,"Biography,Drama,History,War,",Joe Wright,75,44,4,2,7.3,150,32,13,86,7.4,247,212,35,89,7.7,45,40,5,82,0,0,1,0,1,0,0
+dunkirk,2017,8,356824,-,-,"Action,Drama,History,Thriller,War,",Christopher Nolan,94,52,0,1,8.4,2040,193,156,93,8.6,374,346,28,94,9,50,47,3,81,0,0,1,1,1,0,0
+get-out,2017,7.7,266581,-,-,"Horror,Mystery,Thriller,",Jordan Peele,84,47,1,0,7.2,769,92,148,99,8.3,301,298,3,100,8.1,51,51,0,87,0,0,1,0,1,0,0
+lady-bird,2017,7.7,75802,-,-,"Comedy,Drama,",Greta Gerwig,94,49,1,0,7.3,385,55,69,99,8.7,300,296,4,100,9.4,48,48,0,81,0,1,1,0,1,0,0
+phantom-thread,2017,7.8,33539,-,-,"Drama,Romance,",Paul Thomas Anderson,90,49,2,0,7.6,194,27,29,91,8.5,262,239,23,98,8.3,40,39,1,70,0,1,1,1,1,0,0
+the-post,2017,7.3,47203,-,-,"Biography,Drama,History,Thriller,",Steven Spielberg,83,47,4,0,7,196,43,39,88,7.9,317,279,38,93,8.1,42,39,3,73,0,0,1,0,0,1,1
+the-shape-of-water,2017,7.7,109922,-,-,"Adventure,Drama,Fantasy,Horror,Romance,Thriller,",Guillermo del Toro,87,49,3,1,7.1,365,68,73,92,8.4,334,308,26,91,8.2,46,42,4,77,0,0,1,0,1,0,0
+three-billboards-outside-ebbing-missouri,2017,8.3,148947,-,117,"Crime,Drama,",Martin McDonagh,88,49,1,0,7.5,426,57,64,92,8.5,314,289,25,94,8.8,50,47,3,87,0,0,0,0,1,0,0
+moonlight,2016,7.5,184640,-,-,"Drama,",Barry Jenkins,99,51,0,0,7.2,832,110,210,98,9,318,311,7,98,9.3,50,49,1,79,1,0,0,0,1,0,0
+arrival,2016,7.9,434686,-,-,"Drama,Mystery,Sci-Fi,Thriller,",Denis Villeneuve,81,47,4,1,8.1,1290,132,118,94,8.4,344,322,22,90,7.8,52,47,5,82,0,0,0,0,1,0,0
+fences,2016,7.2,72036,-,-,"Drama,",Denzel Washington,79,43,5,0,7.3,169,31,19,94,7.7,233,218,15,98,8,48,47,1,75,0,1,1,1,1,0,0
+hacksaw-ridge,2016,8.2,302769,-,175,"Biography,Drama,History,War,",Mel Gibson,71,40,7,0,8.3,567,44,22,86,7.2,244,210,34,93,7.4,45,42,3,91,0,0,1,0,1,0,0
+hell-or-high-water,2016,7.6,147736,-,-,"Crime,Drama,Thriller,Western,",David Mackenzie,88,46,1,0,8.2,505,47,11,97,8.5,247,240,7,96,8.7,45,43,2,88,0,0,0,0,0,0,1
+hidden-figures,2016,7.8,142615,-,-,"Biography,Drama,History,",Theodore Melfi,74,38,9,0,7.4,260,37,29,93,7.6,258,239,19,97,7.8,38,37,1,93,0,0,0,0,0,1,1
+la-la-land,2016,8.1,354171,-,206,"Comedy,Drama,Music,Musical,Romance,",Damien Chazelle,93,51,2,0,8.4,1472,149,118,-,-,-,-,-,-,-,-,-,-,-,0,0,1,0,0,0,0
+lion,2016,8.1,153528,-,-,"Biography,Drama,",Garth Davis,69,32,13,0,7.9,221,27,10,86,7.3,231,198,33,83,7.7,40,33,7,91,0,1,1,1,1,0,0
+manchester-by-the-sea,2016,7.9,181094,-,-,"Drama,",Kenneth Lonergan,96,51,1,0,8.2,618,47,48,95,8.8,293,279,14,100,9.5,45,45,0,77,0,0,1,0,0,0,0
+spotlight,2015,8.1,311415,-,204,"Crime,Drama,History,",Tom McCarthy,93,43,2,0,8.1,688,45,46,97,8.8,334,323,11,98,9.4,51,50,1,93,1,0,0,0,1,0,0
+the-big-short,2015,7.8,275689,-,-,"Biography,Comedy,Drama,History,",Adam McKay,81,37,6,2,8.2,549,53,20,88,7.8,295,260,35,85,7.9,47,40,7,87,0,0,0,0,0,0,0
+bridge-of-spies,2015,7.6,239550,-,-,"Drama,History,Thriller,",Steven Spielberg,81,47,1,0,7.6,445,74,22,91,7.7,276,251,25,98,8,51,50,1,87,0,0,1,0,1,0,0
+brooklyn,2015,7.5,104846,-,-,"Drama,Romance,",John Crowley,87,41,0,1,8,302,51,19,97,8.4,251,243,8,100,9.1,43,43,0,87,0,0,1,1,1,0,0
+mad-max-fury-road,2015,8.1,695177,-,203,"Action,Adventure,Sci-Fi,Thriller,",George Miller,90,50,1,0,8.6,3281,189,260,97,8.6,375,363,12,98,8.5,51,50,1,85,0,0,0,0,0,0,0
+the-martian,2015,8,606772,-,-,"Adventure,Drama,Sci-Fi,",Ridley Scott,80,40,6,0,8,1431,167,87,91,7.8,333,304,29,94,8,50,47,3,91,0,0,1,0,0,0,1
+the-revenant,2015,8,549032,-,-,"Adventure,Drama,History,Thriller,Western,",Alejandro G. Iñárritu,76,41,8,1,8,1331,165,92,80,7.9,346,278,68,82,8.1,45,37,8,84,0,1,1,0,1,0,0
+room,2015,8.2,263264,-,143,"Drama,",Lenny Abrahamson,86,39,3,1,8.4,505,34,31,94,8.4,281,264,17,91,8.5,47,43,4,93,0,0,1,0,1,0,0
+birdman,2014,7.8,472912,-,-,"Comedy,Drama,",Alejandro G. Iñárritu,88,43,4,2,8.2,1348,129,127,92,8.5,319,292,27,94,8.6,53,50,3,77,1,1,1,1,1,0,0
+american-sniper,2014,7.3,373857,-,-,"Action,Biography,Drama,History,Thriller,War,",Clint Eastwood,72,36,12,0,6.6,639,185,158,72,6.9,270,195,75,81,7.2,48,39,9,84,0,0,0,0,0,0,1
+boyhood,2014,7.9,300199,-,-,"Drama,",Richard Linklater,100,50,0,0,7.7,1496,215,245,97,9.2,291,282,9,100,9.7,57,57,0,80,0,0,0,0,1,0,0
+the-grand-budapest-hotel,2014,8.1,574032,-,192,"Adventure,Comedy,Drama,",Wes Anderson,88,45,3,0,8.4,1046,67,51,91,8.4,275,251,24,87,8.3,55,48,7,86,0,0,1,0,1,0,0
+the-imitation-game,2014,8,567511,-,-,"Biography,Drama,History,Thriller,War,",Morten Tyldum,73,39,10,0,8.1,661,74,22,91,7.7,258,234,24,86,7.6,50,43,7,91,0,1,1,1,1,0,0
+selma,2014,7.5,72141,-,-,"Biography,Drama,History,",Ava DuVernay,89,45,1,0,7.2,302,46,52,98,8.7,242,238,4,100,9.1,47,47,0,86,0,0,1,0,1,0,0
+the-theory-of-everything,2014,7.7,322704,-,-,"Biography,Drama,Romance,",James Marsh,72,36,11,0,7.8,396,56,22,78,7.3,247,193,54,78,7.7,51,40,11,84,0,0,1,0,1,0,0
+whiplash,2014,8.5,534027,-,45,"Drama,Music,",Damien Chazelle,88,48,1,0,8.9,1133,43,37,94,8.6,275,258,17,95,8.6,55,52,3,94,0,0,1,0,0,0,0
+12-years-a-slave,2013,8.1,525092,-,199,"Biography,Drama,History,",Steve McQueen,96,55,1,0,8,1045,97,100,96,8.9,336,321,15,96,9.6,53,51,2,90,1,0,1,0,1,0,0
+american-hustle,2013,7.3,395061,-,-,"Crime,Drama,",David O. Russell,90,46,1,0,7.3,929,192,128,93,8.2,266,248,18,96,8.9,50,48,2,74,0,1,1,0,1,0,0
+captain-phillips,2013,7.8,364014,-,-,"Biography,Drama,Thriller,",Paul Greengrass,83,44,4,0,8.1,610,50,23,93,8.3,255,238,17,91,8.7,53,48,5,89,0,0,1,1,1,0,0
+dallas-buyers-club,2013,8,374508,-,-,"Biography,Drama,",Jean-Marc Vallée,84,47,0,0,8.2,500,29,12,93,7.8,243,226,17,98,8.2,49,48,1,91,0,0,0,0,0,0,0
+gravity,2013,7.8,656791,-,-,"Drama,Sci-Fi,Thriller,",Alfonso Cuarón,96,49,0,0,7.8,2440,335,322,96,9,326,312,14,96,9.2,56,54,2,80,0,0,0,0,0,0,0
+her,2013,8,421440,-,-,"Drama,Romance,Sci-Fi,",Spike Jonze,90,42,4,0,8.6,1294,78,67,94,8.5,250,236,14,93,8.8,46,43,3,82,0,0,1,0,0,0,0
+nebraska,2013,7.7,100159,-,-,"Adventure,Comedy,Drama,",Alexander Payne,86,43,2,0,8,261,30,13,91,8.1,229,208,21,92,8.4,51,47,4,83,0,0,0,0,1,0,0
+philomena,2013,7.6,84573,-,-,"Biography,Drama,",Stephen Frears,77,38,3,1,7.9,172,28,6,92,7.8,179,165,14,96,7.9,46,44,2,89,0,0,1,0,1,0,0
+the-wolf-of-wall-street,2013,8.2,931533,-,148,"Biography,Comedy,Crime,Drama,",Martin Scorsese,75,35,10,2,6.8,1344,135,413,78,7.8,264,206,58,73,7.9,49,36,13,82,0,0,0,0,0,0,0
+argo,2012,7.7,504151,-,-,"Biography,Drama,Thriller,",Ben Affleck,86,41,4,0,7.7,802,102,67,96,8.4,333,320,13,94,8.7,53,50,3,90,1,0,0,0,0,0,0
+amour,2012,7.9,79422,-,-,"Drama,Romance,",Michael Haneke,94,42,2,0,8.1,236,31,18,93,8.7,207,193,14,96,9.4,53,51,2,82,0,0,1,0,1,0,0
+beasts-of-the-southern-wild,2012,7.3,74926,-,-,"Adventure,Drama,Fantasy,",Benh Zeitlin,86,37,7,0,7.5,218,49,29,86,8.2,192,165,27,78,8.4,46,36,10,76,0,1,1,0,1,0,0
+django-unchained,2012,8.4,1107430,-,60,"Drama,Western,",Quentin Tarantino,81,37,5,0,8.6,1892,115,77,87,8,262,228,34,76,7.4,49,37,12,91,0,0,0,0,0,0,0
+les-miserables,2012,7.6,268812,-,-,"Drama,History,Musical,Romance,War,",Tom Hooper,63,24,15,2,7.5,550,124,71,69,6.9,237,164,73,58,7,43,25,18,79,0,0,1,0,1,0,0
+life-of-pi,2012,7.9,496870,-,-,"Adventure,Drama,Fantasy,",Ang Lee,79,37,7,0,7.9,672,91,58,87,7.9,234,203,31,88,8.2,49,43,6,84,0,0,0,0,1,0,0
+lincoln,2012,7.4,216394,-,-,"Biography,Drama,History,War,",Steven Spielberg,86,41,3,0,7.5,543,113,62,90,8,263,237,26,94,8.5,50,47,3,80,0,0,1,0,1,0,0
+silver-linings-playbook,2012,7.8,588444,-,-,"Comedy,Drama,Romance,",David O. Russell,81,36,8,1,8.6,994,74,27,92,8.2,232,213,19,90,8.6,52,47,5,86,0,0,0,0,0,1,1
+zero-dark-thirty,2012,7.4,236406,-,-,"Drama,Thriller,",Kathryn Bigelow,95,44,2,0,6.9,731,167,185,91,8.6,273,249,24,92,9.1,51,47,4,80,0,0,1,1,1,0,0
+the-artist,2011,7.9,207154,-,-,"Comedy,Drama,Romance,",Michel Hazanavicius,89,40,0,1,8.2,478,47,33,95,8.8,298,283,15,100,9.1,55,55,0,87,1,0,0,0,0,0,0
+the-descendants,2011,6.7,3771,-,-,"Action,Adventure,Family,Fantasy,Romance,",Kenny Ortega,84,38,5,0,7.7,370,67,20,89,8.1,246,219,27,92,8.8,50,46,4,79,0,0,1,0,0,0,0
+extremely-loud-and-incredibly-close,2011,6.9,89188,-,-,"Adventure,Drama,Mystery,",Stephen Daldry,46,19,13,9,5.9,82,63,34,46,5.5,181,83,98,45,5.5,47,21,26,61,0,0,0,0,0,0,0
+the-help,2011,8.1,362476,-,237,"Drama,",Tate Taylor,62,24,15,2,7.8,356,45,26,75,7,214,161,53,65,6.9,46,30,16,89,0,1,1,0,0,1,1
+hugo,2011,7.5,270093,-,-,"Adventure,Drama,Family,Fantasy,Mystery,Romance,",Martin Scorsese,83,36,5,0,7.7,586,107,56,94,8.3,211,198,13,93,8.3,43,40,3,78,0,0,1,1,1,0,0
+midnight-in-paris,2011,7.7,336186,-,-,"Comedy,Fantasy,Romance,",Woody Allen,81,40,0,0,8,531,59,27,93,7.8,210,195,15,96,8.1,47,45,2,83,0,0,0,0,0,0,0
+moneyball,2011,7.6,308237,-,-,"Biography,Drama,Sport,",Bennett Miller,87,40,2,0,8,509,70,14,94,8,248,232,16,98,8.4,49,48,1,86,0,0,1,0,1,0,0
+the-tree-of-life,2011,6.8,149125,-,-,"Drama,Fantasy,",Terrence Malick,85,45,4,1,7,436,84,120,84,8.1,261,219,42,90,8.4,49,44,5,60,0,0,0,0,1,0,0
+war-horse,2011,7.2,128329,-,-,"Drama,War,",Steven Spielberg,72,29,11,0,6.7,232,67,52,76,7,224,170,54,77,7.4,44,34,10,74,0,0,0,0,0,0,1
+the-kings-speech,2010,8,557825,-,-,"Biography,Drama,",Tom Hooper,88,39,2,0,8.4,680,54,14,95,8.6,284,269,15,90,9,51,46,5,92,1,0,0,0,1,0,0
+127-hours,2010,7.6,306397,-,-,"Adventure,Biography,Drama,Thriller,",Danny Boyle,82,37,1,0,8.1,568,55,22,93,8.3,222,207,15,92,8.5,39,36,3,85,0,0,0,0,0,0,0
+black-swan,2010,8,607933,-,-,"Drama,Thriller,",Darren Aronofsky,79,35,6,1,8.1,923,90,77,87,8.2,282,244,38,85,8,47,40,7,84,0,0,0,0,1,0,0
+the-fighter,2010,7.8,300710,-,-,"Biography,Drama,Sport,",David O. Russell,79,35,6,0,8.1,396,36,10,90,7.8,239,216,23,84,7.8,43,36,7,89,0,1,1,1,1,0,0
+inception,2010,8.8,1680996,-,14,"Action,Adventure,Sci-Fi,Thriller,",Christopher Nolan,74,33,6,3,8.8,3521,213,188,86,8.1,337,291,46,85,7.8,53,45,8,91,0,0,0,0,0,0,0
+the-kids-are-all-right,2010,7,117042,-,-,"Comedy,Drama,Romance,",Lisa Cholodenko,86,35,4,0,7.2,223,46,32,93,7.8,213,198,15,95,8.2,41,39,2,73,0,0,0,0,0,0,0
+the-social-network,2010,7.7,535069,-,-,"Biography,Drama,",David Fincher,95,41,1,0,8.3,1548,156,79,96,9,298,285,13,100,9.4,51,51,0,86,0,0,0,0,1,0,0
+toy-story-3,2010,8.3,623120,-,98,"Animation,Adventure,Comedy,Family,Fantasy,",Lee Unkrich,92,39,0,0,8.9,1514,62,55,99,8.9,293,289,4,100,8.6,50,50,0,89,0,0,0,0,0,0,0
+true-grit,2010,7.6,265480,-,-,"Adventure,Drama,Western,",Ethan Coen,80,39,1,1,7.8,566,70,32,95,8.3,266,254,12,96,8.3,47,45,2,85,0,0,1,0,1,0,0
+winters-bone,2010,7.2,120617,-,-,"Drama,",Debra Granik,90,36,2,0,7.3,354,62,49,,,,,,,,,,,,0,0,1,0,1,0,0
+the-hurt-locker,2009,7.6,368686,-,-,"Drama,History,Thriller,War,",Kathryn Bigelow,94,34,1,0,7.3,1024,148,231,,,,,,,,,,,,1,0,0,0,0,0,1
+avatar,2009,7.8,976909,-,-,"Action,Adventure,Fantasy,Sci-Fi,",James Cameron,83,31,4,0,7.5,2198,455,420,83,7.5,299,248,51,84,7.3,50,42,8,82,0,0,1,0,1,0,0
+the-blind-side,2009,7.7,248798,-,-,"Biography,Drama,Sport,",John Lee Hancock,53,16,10,3,7.4,257,63,38,67,6.1,200,133,67,50,5.8,34,17,17,85,0,1,1,1,1,0,0
+district-9,2009,8,576970,-,-,"Sci-Fi,Thriller,",Neill Blomkamp,81,30,6,0,8.1,1148,114,136,90,7.8,302,271,31,88,7.4,48,42,6,82,0,0,1,0,0,1,1
+an-education,2009,7.3,118796,-,-,"Drama,",Lone Scherfig,85,32,2,0,7.8,177,22,12,95,7.9,185,175,10,95,8.1,39,37,2,80,0,0,1,0,1,0,0
+inglourious-basterds,2009,8.3,1023099,-,96,"Adventure,Drama,War,",Quentin Tarantino,69,26,9,1,7.8,1150,115,166,88,7.8,314,277,37,75,7.2,52,39,13,87,0,0,0,0,0,0,0
+precious,2009,7.3,95474,-,-,"Drama,",,,,,,,,,,91,7.8,227,207,20,91,7.9,45,41,4,81,0,0,1,0,1,0,0
+a-serious-man,2009,7,113148,-,-,"Comedy,Drama,",Ethan Coen,79,30,2,3,6.8,177,51,55,90,7.9,214,192,22,89,8,47,42,5,67,0,0,0,0,0,0,1
+up,2009,8.3,769048,-,113,"Animation,Adventure,Comedy,Family,",Pete Docter,88,34,3,0,8.8,1093,64,26,98,8.7,288,283,5,96,8.4,48,46,2,90,0,0,0,0,0,0,1
+up-in-the-air,2009,7.4,287601,-,-,"Drama,Romance,",Jason Reitman,83,32,4,0,7.4,359,67,63,91,8.1,276,251,25,90,7.9,50,45,5,79,0,0,1,0,1,0,0
+slumdog-millionaire,2008,8,705168,-,-,"Drama,Romance,",Danny Boyle,86,35,1,0,7.8,565,83,64,91,8.3,276,252,24,94,8.2,47,44,3,90,1,0,0,0,0,0,1
+the-curious-case-of-benjamin-button,2008,7.8,507552,-,-,"Drama,Fantasy,Romance,",David Fincher,70,26,10,1,7.3,422,74,83,,,,,,,,,,,,0,0,0,0,0,0,1
+frost/nixon,2008,7.7,93726,-,-,"Biography,Drama,History,",,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+milk,2008,7.6,148281,-,-,"Biography,Drama,",Gus Van Sant,84,38,1,0,7.6,250,32,41,94,8,234,219,15,96,8.3,47,45,2,89,0,1,1,1,1,0,0
+the-reader,2008,7.6,206959,-,-,"Drama,Romance,",Stephen Daldry,58,19,17,2,7.2,111,35,15,-,-,-,-,-,-,-,-,-,-,40,0,0,1,0,0,1,1
+no-country-for-old-men,2007,8.1,702207,-,160,"Crime,Drama,Thriller,",Ethan Coen,91,35,1,1,7.8,1220,172,186,93,8.7,279,260,19,91,8.4,54,49,5,86,1,0,1,0,1,0,0
+atonement,2007,7.8,213573,-,-,"Drama,Mystery,Romance,War,",Joe Wright,85,33,3,0,7.9,401,60,53,83,7.4,211,176,35,88,7.6,49,43,6,80,0,0,0,0,1,0,0
+juno,2007,7.5,447115,-,-,"Comedy,Drama,",Jason Reitman,81,36,2,0,8.3,1033,84,123,94,8.1,208,196,12,100,8.3,44,44,0,88,0,0,1,0,1,0,0
+michael-clayton,2007,7.3,143487,-,-,"Crime,Drama,Mystery,Thriller,",Tony Gilroy,82,36,0,0,7.7,280,49,30,90,7.6,198,179,19,96,7.9,45,43,2,69,0,0,0,0,0,0,0
+there-will-be-blood,2007,8.1,426920,-,164,"Drama,",Paul Thomas Anderson,93,39,3,0,8,1111,120,170,91,8.4,223,203,20,94,8.4,48,45,3,86,0,0,1,0,1,0,0
+the-departed,2006,8.5,990651,-,40,"Crime,Drama,Thriller,",Martin Scorsese,85,36,3,0,7.2,1111,101,305,90,8.2,272,246,26,89,7.9,37,33,4,94,1,0,1,0,0,0,1
+babel,2006,7.5,262036,-,-,"Drama,",Alejandro G. Iñárritu,69,30,8,0,6.6,502,99,202,-,-,-,-,-,-,-,-,-,-,91,0,0,1,0,0,0,0
+letters-from-iwo-jima,2006,7.9,141100,-,-,"Drama,History,War,",Clint Eastwood,89,34,3,0,8.2,268,26,23,91,8.2,199,181,18,94,8.3,47,44,3,86,0,0,0,0,0,0,0
+little-miss-sunshine,2006,7.8,389019,-,-,"Comedy,Drama,",Jonathan Dayton,80,34,2,0,7.4,462,47,99,91,7.7,212,192,20,89,7.4,53,47,6,91,0,0,0,0,1,0,0
+the-queen,2006,7.3,93423,-,-,"Biography,Drama,",Stephen Frears,91,37,0,0,6.6,235,40,78,,,,,,,,,,,,0,0,0,0,0,1,1
+crash,2005,7.8,385422,-,-,"Crime,Drama,Thriller,",Paul Haggis,69,21,15,0,8.7,540,34,38,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,1,0,0
+brokeback-mountain,2005,7.7,282842,-,-,"Drama,",Ang Lee,87,37,4,0,8.3,1120,71,166,87,8.2,237,206,31,92,8.3,50,46,4,82,0,0,0,0,1,0,0
+capote,2005,7.4,110756,-,-,"Biography,Crime,Drama,History,",Bennett Miller,88,38,2,0,7.8,188,33,16,,,,,,,,,,,,0,0,1,1,1,0,0
+good-night-and-good-luck,2005,7.5,87843,-,-,"Biography,Drama,History,",George Clooney,80,35,5,1,7.3,120,31,21,93,8.1,220,205,15,96,8.2,48,46,2,83,0,0,1,0,0,0,0
+munich,2005,7.6,189962,-,-,"Drama,History,Thriller,",Steven Spielberg,74,30,9,0,8.1,372,55,38,77,7.4,205,158,47,62,6.8,42,26,16,83,0,0,0,0,0,0,0
+million-dollar-baby,2004,8.1,545041,-,200,"Drama,Sport,",Clint Eastwood,86,35,2,2,7.4,393,25,84,90,8.4,261,236,25,92,8.9,52,48,4,90,1,0,0,0,1,0,0
+the-aviator,2004,7.5,290468,-,-,"Biography,Drama,History,",Martin Scorsese,77,36,5,0,8.7,387,34,11,87,7.8,216,188,28,81,7.4,48,39,9,79,0,0,0,0,1,0,0
+finding-neverland,2004,7.7,184729,-,-,"Biography,Drama,Family,",Marc Forster,67,27,11,0,7.9,109,19,4,82,7.5,203,167,36,76,7,42,32,10,87,0,0,0,0,0,0,0
+ray,2004,7.7,120786,-,-,"Biography,Drama,Music,",Taylor Hackford,73,29,11,0,8.7,118,12,3,81,7.3,199,161,38,84,7.5,43,36,7,87,0,1,1,0,0,1,1
+sideways,2004,7.5,161748,-,-,"Comedy,Drama,Romance,",Alexander Payne,94,41,1,0,7,313,70,87,96,8.5,224,216,8,96,8.7,48,46,2,78,0,0,0,0,1,0,0
+the-lord-of-the-rings-the-return-of-the-king,2003,8.9,1371804,-,8,"Adventure,Drama,Fantasy,",Peter Jackson,94,40,1,0,9,2168,65,121,93,8.7,269,251,18,96,8.7,49,47,2,86,1,0,1,0,1,0,0
+lost-in-translation,2003,7.8,353073,-,-,"Drama,",Sofia Coppola,89,41,2,0,7.5,496,52,95,95,8.4,227,216,11,98,8.4,44,43,1,85,0,0,1,0,1,0,0
+master-and-commander-the-far-side-of-the-world,2003,7.4,181530,-,-,"Action,Adventure,Drama,History,War,",Peter Weir,81,34,7,1,6.4,160,17,63,84,7.6,212,179,33,91,7.7,44,40,4,80,0,0,1,0,0,0,0
+mystic-river,2003,8,368824,-,-,"Crime,Drama,Mystery,Thriller,",Clint Eastwood,84,37,4,1,7,268,29,64,88,7.8,200,175,25,93,7.9,44,41,3,89,0,0,1,0,1,0,0
+seabiscuit,2003,7.3,60757,-,-,"Drama,History,Sport,",Gary Ross,72,38,4,1,7.3,37,6,5,77,7.1,202,156,46,77,6.8,47,36,11,76,0,0,0,0,0,0,1
+chicago,2002,7.2,189614,-,-,"Comedy,Crime,Musical,",Rob Marshall,82,33,5,1,8,153,31,8,85,7.9,251,214,37,88,8.1,49,43,6,83,1,0,0,0,0,1,1
+gangs-of-new-york,2002,7.5,349210,-,-,"Crime,Drama,",Martin Scorsese,72,27,12,0,7.6,231,42,15,75,7.1,205,153,52,69,6.6,45,31,14,81,0,0,0,0,0,0,0
+the-hours,2002,7.6,110855,-,-,"Drama,Romance,",Stephen Daldry,80,35,5,0,8.8,158,11,8,,,,,,,,,,,,0,0,0,0,1,0,0
+the-lord-of-the-rings-the-two-towers,2002,8.7,1241824,-,15,"Adventure,Drama,Fantasy,",Peter Jackson,87,38,1,0,9,1287,37,53,95,8.5,250,238,12,100,8.2,47,47,0,95,0,0,1,0,1,0,0
+the-pianist,2002,8.5,579472,-,39,"Biography,Drama,Music,War,",Roman Polanski,85,37,3,0,7.6,284,20,48,-,-,-,-,-,-,-,-,-,-,33,0,1,1,1,1,0,0

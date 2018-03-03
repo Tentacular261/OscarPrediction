@@ -5,10 +5,10 @@ rm(list = ls())
 # Purpose: Determine probability of oscar winner with logistic regression
 
 # read in data from file
-mydata <- read.csv("~/coding/482/project/Directors/director_data_formatted.csv", header = TRUE, sep = ",", quote = "\"",
+mydata <- read.csv("~/Documents/OscarTeam2/Directors/director_data_formatted.csv", header = TRUE, sep = ",", quote = "\"",
                    dec = ".", fill = TRUE, comment.char = "")
 
-training_data <- mydata[1:70,]
+training_data <- mydata[1:75,]
 
 # checking the data
 dim(mydata)
@@ -102,7 +102,7 @@ pred.winner <- rep("No", nrow(mydata))
 pred.winner[pred.probs > 0.2] <- "Yes"
 
 data.frame(Director, pred.probs)
-write.csv(data.frame(Director, pred.probs), file = "./Directors/probs_of_winning.csv")
+write.csv(data.frame(Director, pred.probs), file = "~/Documents/OscarTeam2/Directors/probs_of_winning.csv")
 
 confusion.matrix <- table(default, pred.default)
 print(addmargins(confusion.matrix))

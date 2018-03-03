@@ -4,7 +4,7 @@
 
 awards = {}
 
-with open("director_data.csv", 'r') as input_file:
+with open("director_award_data_formatted.csv", 'r') as input_file:
 	lines = input_file.readlines()
 	for line in lines[1:]:
 		vals = line.strip().split(',')
@@ -16,4 +16,4 @@ with open("best_director_nominations.txt", 'r') as input_file:
 		pline = line
 		for val in awards[line]:
 			pline += "," + val;
-		print pline
+		print(pline)

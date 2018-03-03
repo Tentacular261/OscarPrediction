@@ -3,7 +3,7 @@ with open("probs_of_winning.csv", 'r') as csv_file:
 	i = 1
 	tot = 0
 	wrong = 0
-	year = "2016"
+	year = "2017"
 	while i < len(lines):
 		vals = []
 		while lines[i].strip().split(',')[4] == year:

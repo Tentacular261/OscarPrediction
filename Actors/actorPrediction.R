@@ -5,10 +5,10 @@ rm(list = ls())
 # Purpose: Determine probability of oscar OscarWon with logistic regression
 
 # read in data from file
-mydata <- read.csv("~/coding/482/project/Actors/actor_award_data_formatted.csv", header = TRUE, sep = ",", quote = "\"",
+mydata <- read.csv("~/Documents/OscarTeam2/Actors/actor_award_data_formatted.csv", header = TRUE, sep = ",", quote = "\"",
                    dec = ".", fill = TRUE, comment.char = "")
 
-training_data <- mydata[mydata$Year!="2016",]
+training_data <- mydata[mydata$Year!="2017",]
 
 # checking the data
 dim(mydata)
@@ -89,9 +89,9 @@ attach(mydata)
 pred.probs <- predict (m, mydata, type = "response")
 
 data.frame(Name, Year, pred.probs, OscarWon)
-write.csv(data.frame(Name, pred.probs, OscarWon, Year), file = "~/coding/482/project/Actors/probs_of_winning.csv")
+write.csv(data.frame(Name, pred.probs, OscarWon, Year), file = "~/Documents/OscarTeam2/Actors/probs_of_winning.csv")
 
-confusion.matrix <- table(default, pred.default)
+confusion.matrix <- table(pred.probs)
 print(addmargins(confusion.matrix))
 
 print(c("accuracy", (confusion.matrix[1,1] + confusion.matrix[2,2]) / 10000 ))

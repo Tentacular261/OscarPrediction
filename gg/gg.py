@@ -11,7 +11,7 @@ class BAFTA:
 		self.picturesNom = defaultdict(lambda: 0)
 		winner = True
 		for line in lines:
-			if winner: 
+			if winner:
 				self.picturesWin[line.strip()] += 1
 				self.picturesNom[line.strip()] += 1
 				winner = False
@@ -27,7 +27,7 @@ class BAFTA:
 		self.dramaNom = defaultdict(lambda: 0)
 		winner = True
 		for line in lines:
-			if winner: 
+			if winner:
 				self.dramaWin[line.strip()] += 1
 				self.dramaNom[line.strip()] += 1
 				winner = False
@@ -85,4 +85,4 @@ def print_best_drama():
 		else:
 			print ba.get_best_drama_nom(line), ba.get_best_drama_winner(line)
 
-print_best_picture()
+print_best_drama()

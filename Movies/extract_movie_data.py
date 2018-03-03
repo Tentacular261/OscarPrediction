@@ -286,7 +286,7 @@ def make_csv(dict_of_movies):
 
 		# write info for each movie
 		lastYear = -1;
-		for year, movies in sorted(dict_of_movies.iteritems(), reverse=True):
+		for year, movies in sorted(dict_of_movies.items(), reverse=True):
 			for movie in movies:
 				print(str(year) + " - " + movie)
 
@@ -348,14 +348,14 @@ def make_csv(dict_of_movies):
 							+ str(rotten_tomatoes_info["top_Rotten"]) + "," \
 							+ str(rotten_tomatoes_info["rt_audience_score"]) + ",")
 
-				if (year != lastYear): 
+				if (year != lastYear):
 					lastYear = year
 					csv_file.write("1\n");
 				else:
 					csv_file.write("0\n");
 ########### START ###########
 movies = {}
-	
+
 # these are the movies that were nominated for best picture according to
 # wikipedia: https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture .
 # Movie names should NOT have any colons or spaces. Instead, they should be

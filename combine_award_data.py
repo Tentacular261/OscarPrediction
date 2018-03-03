@@ -11,7 +11,7 @@ data for.
 """
 AWARD_TYPE = "DIRECTOR"
 STARTING_YEAR = 2002
-ENDING_YEAR = 2013
+ENDING_YEAR = 2017
 
 headers = []
 
@@ -197,9 +197,9 @@ class AwardFile():
 
         awards = {} # name => [awards, nominations]
 
-        for year,names in sorted(self.year_data.iteritems(), reverse=False):
+        for year,names in sorted(self.year_data.items(), reverse=False):
             if year <= year_limit:
-                for name,num_awards in names.iteritems():
+                for name,num_awards in names.items():
                     if name in awards:
                         if num_awards == 1:
                             awards[name][0] += 1
@@ -308,7 +308,7 @@ def prepare_csv_data():
         # We start it at 4 to skip the first 4 headers which we don't need.
         i = 4
         for dictionary in list_of_data_dictionaries:
-            for name,awards in dictionary.iteritems():
+            for name,awards in dictionary.items():
                 # Check if the person was nominated for an oscar that year. If
                 # they weren't, we don't care about them, so skip them.
                 if name not in oscar_nomination_lines[oscar_line_index:oscar_line_index+5]:
@@ -363,7 +363,7 @@ def prepare_csv_data():
             # (e.g., SAG to GG).
             i += 2
 
-        for name,entry in entry_dictionary.iteritems():
+        for name,entry in entry_dictionary.items():
             csv_lines.append(name + "," + str(entry))
 
         # There are 5 oscar nominations per year, so add 5 to go the nominations

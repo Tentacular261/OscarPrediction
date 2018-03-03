@@ -2,10 +2,10 @@
 Data Science project attempting to build a model to predict who will win the Oscars.
 
 # To Update
-1. Update award files (bafta, sag, best_actor, etc..) in all directories using reference websites
-2. Run Movies/extract_movie_data.py to scrape movie review websites for info on movies listed in best_picture_nominations.txt
-3. Run combine_award_data.py for ACTOR, ACTRESS, and DIRECTOR to get correctly formatted data for each one respectively
-4. Run R Prediction scripts
+###### Update award files (bafta, sag, best_actor, etc..) in all directories using reference websites
+###### Run Movies/extract_movie_data.py to scrape movie review websites for info on movies listed in best_picture_nominations.txt
+###### Run combine_award_data.py for ACTOR, ACTRESS, and DIRECTOR to get correctly formatted data for each one respectively
+###### Run R Prediction scripts
   1. Actor/Actress/Director
     * Script name is just {actor,actress,director}Prediction.R
   2. Best Picture
